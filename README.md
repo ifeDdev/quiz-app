@@ -21,7 +21,7 @@ The Quiz App is a web-based application that allows users to test their knowledg
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/udohufak/Quiz-App.git`
+1. Clone this repository: `git clone https://github.com/ifeDdev/Quiz-App.git`
 2. Navigate to the project directory: `cd quiz-app`
 3. Install dependencies: `npm install`
 4. Set up your MongoDB database and configure the connection in `config.js`.
@@ -33,7 +33,7 @@ Contributions are welcome! If you have any suggestions, improvements, or new fea
 
 ## Live Link
 
-https://udohufak.github.io/Quiz-App/
+(https://ifeddev.github.io/quiz-app/)
 
 ## Acknowledgment
 
